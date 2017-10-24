@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# SEO? Fuck off!
 
-You can use the [editor on GitHub](https://github.com/seofuckoff/seofuckoff.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Question for you: Is content _really_ google's ranking factor number one? Or is technical on- and off-page SEO more important?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I deliberately don't use any pictures here. (yeah, no fucking alt-text, I know, we read the same technical shit about truly important on-page SEO, fuck off!)
 
-### Markdown
+No link-building, no backlinking, no black-hat crap. No PBN. Just text.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Bummer: I don't use a SEO optimized wordpress theme. I don't use an all in one SEO plugin, no Yoast SEO plugin. No wordpress at all. Wordpress is overkill for 90% of websites. Fuck off, wordpress!
 
-```markdown
-Syntax highlighted code block
+I don't sell crap here. No course, no fucking 7$ e-book, no fucking e-mail list, not even a fucking "free give-away".
 
-# Header 1
-## Header 2
-### Header 3
+This isn't much text. My rant is just 205 words.
 
-- Bulleted
-- List
+Now, let's see how well this page will rank for "Fuck off SEO".
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seofuckoff/seofuckoff.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you are reading this, I did something right. I can also speak and write without ranting and would like to let you know: I run an online-marketing agency with a focus on results. If you would like to work with me, please send an e-mail to [1985nordlicht@gmail.com](mailto:1985nordlicht@gmail.com) - Thank you for your attention!
