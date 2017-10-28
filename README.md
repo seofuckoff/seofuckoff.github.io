@@ -14,9 +14,9 @@ This isn't much text. My rant is just 205 words.
 
 Now, let's see how well this page will rank for "Fuck off SEO".
 
-## So you want to rank you your site to no.1 on google?
+## So you want your site to be no.1 on google?
 
-If you are reading this, I obviously did something right. We can also speak and write without ranting and would like to let you know: We are an online marketing agency with a __focus on results__.
+If you are reading this, we obviously did something right. We can also speak and write without ranting and would like to let you know: We are an online marketing agency with a __focus on results__.
 If you would like to work with us, drop us an e-mail: [1985nordlicht@gmail.com](mailto:1985nordlicht@gmail.com)
 
 Thanks for your attention!
