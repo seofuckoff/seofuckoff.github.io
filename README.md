@@ -1,6 +1,6 @@
 # SEO? Fuck off!
 
-Question for you: Is content _really_ google's ranking factor number one? Or is technical on- and off-page SEO more important?
+Question: Is content _really_ google's ranking factor number one? Or is technical on- and off-page SEO more important?
 
 I deliberately don't use any pictures here. (yeah, no fucking alt-text, I know, we read the same technical shit about truly important on-page SEO, fuck off!)
 
@@ -10,13 +10,14 @@ Bummer: I don't use a SEO optimized wordpress theme. I don't use an all in one S
 
 I don't sell crap here. No course, no fucking 7$ e-book, no fucking e-mail list, not even a fucking "free give-away".
 
-This isn't much text. My rant is just 205 words.
+This isn't much text. My rant is just 203 words.
 
 Now, let's see how well this page will rank for "Fuck off SEO".
 
 ## So you want your site to be no.1 on google?
 
-If you are reading this, we obviously did something right. We can also speak and write without ranting and would like to let you know: We are an online marketing agency with a __focus on results__.
-If you would like to work with us, drop us an e-mail: [1985nordlicht@gmail.com](mailto:1985nordlicht@gmail.com)
+If you are reading this, we obviously did something right.
 
-Thanks for your attention!
+We can also speak and write without ranting and would like to let you know: We can help you with your SEO / content marketing efforts: Contact us on [obdude.com](https://obdude.com)
+
+Thank you for your attention and stay awesome!
