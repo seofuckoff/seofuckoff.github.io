@@ -18,6 +18,9 @@ Now, let's see how well this page will rank for "Fuck off SEO".
 
 If you are reading this, we obviously did something right.
 
-We can also speak and write without ranting and would like to let you know: We can help you with your SEO / content marketing efforts: Contact us on [obdude.com](https://obdude.com)
+We can also speak and write without ranting and would like to let you know: We can help you with your SEO / content marketing and lead generation efforts:
 
-Thank you for your attention and stay awesome!
+Contact me: [**timikels.com**](https://timikels.com)
+
+Thank you for your attention and stay awesome!  
+Tim
