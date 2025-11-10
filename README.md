@@ -16,11 +16,11 @@ Now, let's see how well this page will rank for "Fuck off SEO".
 
 ## So you want your site to be no.1 on google?
 
-If you are reading this, we obviously did something right.
+If you are reading this, I oviously did something right.
 
-We can also speak and write without ranting and would like to let you know: We can help you with your SEO / content marketing and lead generation efforts:
+I can also speak and write without ranting and would like to let you know: I can help you with your SEO, content and lead generation marketing efforts:
 
-Contact me: [**timikels.com**](https://timikels.com)
+Contact me: [**ikels.org**](https://ikels.org)
 
-Thank you for your attention and stay awesome!  
+Thank you & stay awesome,  
 Tim
